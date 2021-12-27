@@ -2,4 +2,4 @@
 Data Structures Design
 
 ## Description
-Applied recursion, binary trees, linked lists, and hashing in data management
+Applied recursion, binary trees, and linked lists in data management
